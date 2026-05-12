@@ -120,6 +120,9 @@ kaggle competitions submit \
 
 The first baseline upload completed successfully with public score `0.92189`.
 
+## Use of AI
+I used Cursor's AI agent to help me submit the PR to the blog post and to submit my results on Kaggle and to document the analysis or my model choice's performance. It was not used for code generation.
+
 ## Reports
 
 - `docs/data_analysis.md`: schema checks, label distribution, text-length summary, and submission ID validation
